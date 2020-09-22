@@ -5,7 +5,7 @@ require "json"
 
 desc "运行"
 task :run do
-  system "bundle exec jekyll serve --incremental --port 10224"
+  system "bundle exec jekyll serve --incremental --port 10225"
 end
 
 desc "部署"
