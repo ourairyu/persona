@@ -1,0 +1,31 @@
+{
+  "name": "persona",
+  "version": "0.0.0",
+  "description": "",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "db:update": "git submodule update --remote vendors/database",
+    "build": "node build/database/index.js",
+    "clean": "rm -rf .asset-cache",
+    "serve": "rake run",
+    "predeploy": "npm run clean",
+    "deploy": "rake deploy",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com:ourairyu/persona.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/ourairyu/persona/issues"
+  },
+  "homepage": "https://gitlab.com/ourairyu/persona#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "handie": "^1.0.8",
+    "js-yaml": "^3.14.0"
+  }
+}
