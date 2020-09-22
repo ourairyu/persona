@@ -15,14 +15,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@gitlab.com:ourairyu/persona.git"
+    "url": "git+ssh://git@github.com:ourairyu/persona.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://gitlab.com/ourairyu/persona/issues"
+    "url": "https://github.com/ourairyu/persona/issues"
   },
-  "homepage": "https://gitlab.com/ourairyu/persona#readme",
+  "homepage": "https://github.com/ourairyu/persona#readme",
   "devDependencies": {
     "gulp": "^4.0.2",
     "handie": "^1.0.8",
