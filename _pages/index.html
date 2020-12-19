@@ -1,5 +1,9 @@
 ---
 permalink: index.html
+css:
+  - pages/index
 ---
 
-<p>想搞点事情，来吗？</p>
+<div id="login_popup" class="login_popup"><span>用新浪微博一步登录</span><a href="https://api.weibo.com/oauth2/authorize?client_id=1792878965&response_type=code&redirect_uri={{ 'https://persona.ourai.ws/' | url_encode }}" class="icon"></a>
+  <div>其他登录方式陆续开发中，造成不便，敬请谅解</div>
+</div>

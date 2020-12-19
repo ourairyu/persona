@@ -1,59 +1,36 @@
 @import "../helper";
 
-.Homepage {
-  &-header {
-    height: 400px;
-    padding: 0 15px;
-    background: image-url("banners/anti-chaos") transparent no-repeat 50% 50%;
-    background-size: cover;
+.login_popup {
+  position: relative;
+  width: 600px;
+  height: 160px;
+  border-radius: 5px;
+  text-align: center;
+  padding-top: 10px;
+  z-index: 10001;
+}
 
-    &,
-    > div {
-      position: relative;
-      overflow: hidden;
-    }
+.login_popup span {
+  display: block;
+  text-align: center;
+  font-size: 18px;
+  color: #333;
+  line-height: 30px;
+  margin-top: 20px;
+}
 
-    &:before {
-      content: "\0020";
-      background-color: #000;
-      opacity: 0.35;
-      @include stretch;
-    }
+.login_popup .icon {
+  background: url("https://assets.html-js.com/images/login.png") no-repeat center center;
+  width: 100%;
+  height: 90px;
+  display: block;
+}
 
-    > div {
-      max-width: 1170px;
-      margin: 0 auto;
-      color: #fff;
-    }
-  }
+.login_popup div {
+  margin-top: 30px;
+  color: #666;
+}
 
-  &-title {
-    margin: {
-      top: 100px;
-      bottom: 30px;
-    }
-    font-size: 72px;
-  }
-
-  &-slogan {
-    font-size: 28px;
-  }
-
-  @media all and (max-width: $screen-sm-max) {
-    &-header {
-      height: 250px;
-    }
-
-    &-title {
-      margin: {
-        top: 80px;
-        bottom: 15px;
-      }
-      font-size: 48px;
-    }
-
-    &-slogan {
-      font-size: 20px;
-    }
-  }
+#login_popup {
+  margin: 0 auto;
 }
