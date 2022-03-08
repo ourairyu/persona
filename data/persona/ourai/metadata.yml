@@ -1,0 +1,14 @@
+name: 欧雷
+brief: 多面玩家
+description: 思考并探索改变生活、玩转人生的方法。
+professions:
+  - title: 生活黑客
+  - title: 反混沌工程师
+websites:
+  - title: 欧雷流
+    url: https://ourai.ws/
+contacts:
+  email: ourairyu@gmail.com
+  github: ourai
+banner:
+  description: Anti-chaos
