@@ -2,6 +2,8 @@ name: 欧雷
 brief: 多面玩家
 description: 思考并探索改变生活、玩转人生的方法。
 professions:
+  - title: 世界公民
+    always: false
   - title: 生活黑客
   - title: 反混沌工程师
 websites:
