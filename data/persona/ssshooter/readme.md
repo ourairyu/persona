@@ -1,0 +1,13 @@
+- 坐标中国广东广州
+- web 前端开发者，Vue 👌 React 👌 Vanilla 更 👌
+- unity 学习中（更新：荒废中）
+- RN、iOS、android 同样荒废中
+- 没什么用的日语 N2
+- 梦想是环游世界，偏好都市，海边也很棒，但是不喜欢上山
+- 一个不赖床的人
+- 希望能正确调整兴趣和时间的平衡
+- 已经不是[骑空士](http://game.granbluefantasy.jp/)了
+- Email ssshooterx@gmail.com
+- NS SW-3824-2959-2096
+- PSN usubenifantasy
+- 在黑暗中不忘赞美太阳
