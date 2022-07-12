@@ -5,10 +5,10 @@ professions:
   - title: FE-Dev
   - title: 游戏玩家
 websites:
-  - title: Usubenifantasy
+  - title: UsubeniFantasy
+    description: Write like you're running out of time.
     url: https://ssshooter.com/tag/coding
 contacts:
   email: ssshooterx@gmail.com
   github: ssshooter
-banner:
-  description: Write like you're running out of time.
+location: 中国广东广州

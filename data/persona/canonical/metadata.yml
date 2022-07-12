@@ -1,9 +1,10 @@
 name: Canonical
-description: 云计算实现计算的云化，可逆计算实现计算的可逆化。
+description: 千山万水
 professions:
   - title: 「可逆计算」专栏作者
 websites:
-  - title: 可逆计算
+  - title: 「可逆计算」知乎专栏
+    description: 云计算实现计算的云化，可逆计算实现计算的可逆化
     url: https://www.zhihu.com/column/reversible-computation
 contacts:
   email: canonical_entropy@163.com

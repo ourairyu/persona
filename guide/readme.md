@@ -59,6 +59,7 @@ websites: # 个人网站，第一个将作为主站对待，可选
 contacts: # 联系方式，可选
   email: ourairyu@gmail.com
   github: ourai
+location: 浙江杭州 # 所在地
 banner: # 人物页头图/人物卡片背景图的额外信息，可选
   description: Anti-chaos # 图片是什么
 ```
