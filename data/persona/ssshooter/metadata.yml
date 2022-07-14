@@ -1,6 +1,7 @@
 name: SSShooter
 brief: 佛系人类
 description: 遇到问题，站中间
+location: 广东广州
 professions:
   - title: FE-Dev
   - title: 游戏玩家
@@ -11,4 +12,3 @@ websites:
 contacts:
   email: ssshooterx@gmail.com
   github: ssshooter
-location: 中国广东广州

@@ -1,5 +1,3 @@
-作者小站：[http://site.douban.com/212458/](http://site.douban.com/212458/){:target="_blank"}{:rel="external nofollow"}
-
 豆瓣阅读作品：
 
 - 《[晚霞熟了](https://read.douban.com/column/59662517/){:target="_blank"}{:rel="external nofollow"}》
