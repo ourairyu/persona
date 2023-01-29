@@ -6,3 +6,4 @@
 ### 游戏平台
 
 - Nintendo 3DS Friend Code：`0774-4472-6023`
+- Nintendo Switch Friend Code：`SW-4407-2200-0734`
