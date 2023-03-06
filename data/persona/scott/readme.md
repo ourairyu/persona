@@ -1,0 +1,1 @@
+I'm a Wall Street Journal bestselling author, podcast host, computer programmer and an avid reader. Since 2006, I've published weekly essays on this website to help people like you learn and think better. My work has been featured in The New York Times, BBC, TEDx, Pocket, Business Insider and more. I don't promise I have all the answers, just a place to start.
