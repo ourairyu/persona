@@ -1,5 +1,5 @@
 name: Canonical
-description: 千山万水
+description: 毕业于清华大学，可逆计算理论的发明人。
 professions:
   - title: 「可逆计算」专栏作者
 websites:
@@ -8,4 +8,5 @@ websites:
     url: https://www.zhihu.com/column/reversible-computation
 contacts:
   email: canonical_entropy@163.com
+  github: entropy-cloud
   zhihu: canonical-entropy
