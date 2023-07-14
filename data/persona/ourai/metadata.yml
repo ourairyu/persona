@@ -1,8 +1,9 @@
 name: 欧雷
-brief: 多面玩家
+brief: 反混沌工程师
 description: 思考并探索改变生活、玩转人生的方法。
 professions:
-  - title: 反混沌工程师
+  - title: 生命体验者
+  - title: 本地生活家
 websites:
   - title: 欧雷流
     url: https://ourai.ws/
