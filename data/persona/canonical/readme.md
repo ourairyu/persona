@@ -5,7 +5,7 @@ Nop 平台是可逆计算理论的参考实现，基于 Nop 平台，只需要�
 下面为[可逆计算理论与 Nop 平台的介绍](https://zhuanlan.zhihu.com/p/615136248){:target="_blank"}{:rel="external nofollow"}视频：
 
 <div class="Video Video--bilibili">
-  <iframe src="https://player.bilibili.com/player.html?aid=611171994&bvid=BV1u84y1w7kX&cid=1059300195&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+  <iframe src="https://player.bilibili.com/player.html?aid=611171994&bvid=BV1u84y1w7kX&cid=1059300195&page=1&high_quality=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 </div>
 
 更多的理论讲解详见知乎专栏「[可逆计算](https://www.zhihu.com/column/reversible-computation){:target="_blank"}{:rel="external nofollow"}」，Nop 平台已在 [GitHub](https://github.com/entropy-cloud/nop-entropy){:target="_blank"}{:rel="external nofollow"} 与 [Gitee](https://gitee.com/canonical-entropy/nop-entropy){:target="_blank"}{:rel="external nofollow"} 上开源。
