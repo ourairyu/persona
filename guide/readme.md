@@ -32,6 +32,8 @@
 
 若要自行添加信息，需先 fork 本仓库，再在 [`data/persona`](../data/persona) 文件夹下创建自己的「persona」，最后发起 pull request 合并进来。
 
+![](config.png)
+
 「persona」所在文件夹的名字就是 [`ourai.ws`](https://ourai.ws/) 上生成的人物信息页 URL `https://ourai.ws/people/{slug}/` 中的 `slug`。
 
 文件夹下所应有的文件包括：
